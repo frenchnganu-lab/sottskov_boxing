@@ -199,3 +199,24 @@ li {
   display: grid;
   gap: 10px;
 }
+
+.phone-button{
+    background:#2f2f2f;
+    color:#ffffff;
+}
+
+.phone-button:hover{
+    background:#444444;
+}
+
+.phone-note{
+    margin-top:18px;
+    text-align:center;
+    color:#bfbfbf;
+    font-size:14px;
+}
+
+.phone-note strong{
+    color:#f2c14e;
+    font-size:18px;
+}
